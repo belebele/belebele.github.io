@@ -1,8 +1,8 @@
 # Site
-title: SungHee's Blog
-description: Real, Now, Fantasy Coding
-url: https://sunghere.github.io/
-logo: my.jpg                                       # Site logo
+title: bele's Blog
+description: 바보
+url: https://belebele.github.io/
+logo:                                        # Site logo
 locale: ko_Kr
 
 # Left Block Images
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Google Analytics
-google-analytics: UA-94087209-1
+#google-analytics: UA-94087209-1
 
 # Social Links
 email:              cisisn@naver.com
